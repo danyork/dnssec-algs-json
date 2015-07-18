@@ -1,6 +1,8 @@
 # dnssec-algs-json
 A script to take the IANA registry of DNSSEC algorithms and make it available as JSON.
 
+*NOTE*: This is a branch to experiment to having this work with Heroku.
+
 The IANA registry of DNSSEC algorithm numbers is available at:
 
 http://www.iana.org/assignments/dns-sec-alg-numbers/dns-sec-alg-numbers.xhtml
