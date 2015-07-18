@@ -25,6 +25,7 @@ As of 18 July 2015, the output of the script is as follows:
 
 ----
 
+```
 [
 {
     "Description": "RSA/MD5 (deprecated, see 5)",
@@ -97,3 +98,4 @@ As of 18 July 2015, the output of the script is as follows:
     "Number": "254"
 },
 ]
+```
